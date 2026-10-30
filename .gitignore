@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+logs/
+.vscode/
+.idea/
+media/compressed/*
+!media/compressed/.gitkeep
+staticfiles/
+.mimocode/

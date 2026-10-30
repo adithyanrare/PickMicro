@@ -1,0 +1,5 @@
+Django>=5.2,<5.3
+Pillow>=11.3,<13
+pymongo>=4.8,<5
+redis>=5.0,<7
+python-dotenv>=1.0,<2
